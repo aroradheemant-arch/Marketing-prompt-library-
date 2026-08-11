@@ -1,9 +1,5 @@
 # 📚 Prompt Library — Meridian Digital (Marketing Agency)
 
-> **Assessment 1 | Generative AI for Business**
-> Business Field: Marketing Agency — SME client services
-> Model tested on: Claude
-> Last updated: August 2026
 
 ---
 
