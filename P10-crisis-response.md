@@ -17,6 +17,9 @@ Low-medium — drafts only; always needs senior approval.
 ## Risks & Limitations
 - High reputational and legal risk if unsupervised.
 - Never auto-publish.
+- Legal, senior management, or communications review may be required.
+Confidential or sensitive information must not be exposed.
+
 
 ## Version History
 ### v1.0
