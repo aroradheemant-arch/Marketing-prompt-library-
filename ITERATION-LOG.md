@@ -2,10 +2,7 @@
 
 ## Assessment 1 — Generative AI for Business
 
-**Business field:** Marketing Agency — SME client services  
-**Organisation:** Meridian Digital  
-**Model tested:** Claude  
-**Last updated:** August 2026
+
 
 ---
 
