@@ -28,37 +28,7 @@ Clearly distinguish between:
 Evidence: directly supported by the research.
 Interpretation: a reasonable strategic interpretation of the evidence.
 Unknown: information that cannot be established from the research.
-2. RACE Framework Application
-Apply the RACE Framework — Reach, Act, Convert, Engage to the persona.
-Reach:
-Identify where and how this audience is most likely to encounter the brand or relevant information based only on the research.
-Relevant channels
-Search/social/content touchpoints
-Awareness needs
-Appropriate reach message or content angle
-Act:
-Identify what would encourage the audience to interact, investigate, or take a micro-conversion.
-Key questions they need answered
-Content they are likely to engage with
-Calls to action
-Friction points
-Convert:
-Identify what could move the persona toward a purchase, enquiry, registration, booking, or other primary conversion.
-Decision drivers
-Objections/barriers
-Trust requirements
-Conversion messaging
-Useful conversion assets
-Engage:
-Identify what could encourage repeat engagement, retention, advocacy, or loyalty.
-Post-purchase communication needs
-Relevant content
-Retention opportunities
-Community/relationship opportunities
-Advocacy opportunities
-Do not force a RACE stage where the research provides insufficient evidence. Mark unsupported areas as “Not established by the research.”
-## Automation Potential
-Medium — speeds synthesis; strategist validates against reality.
+
 
 ## Risks & Limitations
 - Risk of over-generalising from a small sample.
