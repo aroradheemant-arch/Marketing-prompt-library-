@@ -7,7 +7,7 @@ Content Production
 Manual captions take approximately 20–30 minutes per client per day.
 
 ## Prompt
-> Social copywriter for [client]. Write 3 IG captions (≤150 chars) for [topic], tone [X], + 2 hashtags + CTA.
+Serve as [client's] social media copywriter. Make three captions for [subject] on Instagram for [target audience]. Keep each caption under 150 characters and adhere to the brand tone [X]. Each caption should have one obvious call to action and two pertinent hashtags. Make each version unique by making it educational, interesting, and conversion-focused. Steer clear of unsupported information, repetition, and generalizations. Make sure the captions convey the campaign's goal and the client's brand voice. Just the last three captions, properly labeled 1-3, should be returned.
 
 ## Automation Potential
 High — approximately 70% faster first drafts.
