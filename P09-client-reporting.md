@@ -7,7 +7,8 @@ Client Ops & Reporting
 Turning metrics into a client-ready narrative is slow and inconsistent.
 
 ## Prompt
-> Given this data: [metrics], write a 150-word client summary: what happened, why, one next step. No jargon.
+Assume the role of a client performance analyst. Without referencing any other data, explain what occurred, why it occurred, and your suggestion for what to do next based solely on the provided metrics. Determine the key change in performance, benchmark it against the appropriate standard or past period, if provided, and separate out the findings from the possible explanations. Do not assert causation without the data supporting it. Be clear and concise in your language, do not use marketing terminology, and do not fill in missing data.
+Metrics: [paste metrics]
 
 ## Automation Potential
 High — standardises tone and frees analyst time.
