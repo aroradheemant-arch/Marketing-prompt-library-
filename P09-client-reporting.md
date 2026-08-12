@@ -16,6 +16,8 @@ High — standardises tone and frees analyst time.
 ## Risks & Limitations
 - Can misread trends or causation.
 - Figures need human verification.
+- Final recommendations should be reviewed by the account or analytics team.
+
 
 ## Version History
 ### v1.0
