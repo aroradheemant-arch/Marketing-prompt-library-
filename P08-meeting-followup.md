@@ -7,8 +7,8 @@ Client Ops & Reporting
 Follow-ups are often delayed or inconsistent after calls.
 
 ## Prompt
-> From these notes: [paste], list action items (owner, due date), then draft a 100-word client follow-up email.
-
+The following are the action items extracted from the meeting notes below. Provide task details, owner, deadline and dependencies, where applicable. If any data is missing, do not fill it in and write “Not specified” instead. Next, write a professional 100-word follow-up email to the client about the important decisions made during the meeting. Make sure that the email tone matches [client/account tone]. Clearly differentiate the decisions that were reached from the ones still being considered and finish with one suitable CTA. 
+Meeting notes: [paste]
 ## Automation Potential
 High — near-instant, consistent follow-up.
 
