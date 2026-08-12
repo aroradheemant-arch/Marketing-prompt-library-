@@ -11,7 +11,7 @@ You are a senior marketing strategist and audience researcher. Using only the re
 Research notes:
 [PASTE RESEARCH NOTES HERE]
 Do not invent, assume, or infer demographic, behavioural, psychographic, socioeconomic, geographic, or lifestyle details that are not supported by the supplied research. If important information is missing, explicitly state “Not established by the research.”
-1. Persona Synthesis
+ Persona Synthesis
 Create one concise persona based strictly on recurring patterns, needs, behaviours, motivations, barriers, and preferences found in the research.
 Include:
 Persona name/label — use a descriptive label rather than inventing a fictional identity.
