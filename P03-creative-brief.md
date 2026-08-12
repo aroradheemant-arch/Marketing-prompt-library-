@@ -7,7 +7,7 @@ Research & Strategy
 Inconsistent briefs across account managers can cause creative rework.
 
 ## Prompt
-> From this kickoff summary [paste], draft a 1-page brief: objective, audience, key message, tone, deliverables, deadline.
+The following one-page creative brief is developed based on the given kickoff summary. The elements included in the creative brief are as follows: campaign objective, target audience, key insight, single-minded message, tone of voice, deliverables, channels, mandatory requirements, deadline, and success criteria. Each of these elements should be specific and measurable and based on the kickoff information. No assumptions can be made in case of missing information – it should be marked as “Not provided.” Finally, three quality checks should be performed.
 
 ## Automation Potential
 High — standardises briefs and cuts revision cycles.
