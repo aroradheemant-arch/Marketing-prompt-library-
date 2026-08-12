@@ -15,6 +15,7 @@ High — near-instant, consistent follow-up.
 ## Risks & Limitations
 - May miss meeting nuance or tone.
 - Needs a human read-through.
+- Sensitive or commercially important information should be checked carefully.
 
 ## Version History
 ### v1.0
