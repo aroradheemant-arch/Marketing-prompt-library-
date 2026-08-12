@@ -219,26 +219,7 @@ P10 is a drafting tool only. The prompt library identifies this workflow as high
 
 ---
 
-# 5. GitHub Commit Plan
-
-Use one commit for each meaningful iteration. This makes the development process easy for an assessor to follow.
-
-Recommended commit sequence:
-
-| Step | Suggested commit message |
-|---|---|
-| 1 | `Initial prompt library and README` |
-| 2 | `Add initial prompt versions and workflow documentation` |
-| 3 | `Update P02 with grounding constraint` |
-| 4 | `Improve P04 with role framing and format constraints` |
-| 5 | `Refine P05 with character limits and testing angle` |
-| 6 | `Decompose P08 into action items and email drafting` |
-| 7 | `Refine P09 with client reporting structure and word limit` |
-| 8 | `Add format constraints and self-check to P10` |
-| 9 | `Add iteration log and final documentation` |
-
-**Do not create fake commits just to match this list.**  
-If you are completing the work now, make the commits as you actually perform the corresponding changes.
+perform the corresponding changes.
 
 ---
 
