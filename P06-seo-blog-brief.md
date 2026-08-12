@@ -7,8 +7,7 @@ Content Production
 Briefing writers consistently is time-consuming for a small team.
 
 ## Prompt
-> Create a blog brief for '[keyword]': title, 3 H2s, word count, 50-word meta description, for [audience].
-
+Take on the role of an SEO content strategist. Write a succinct blog post aimed at [audience] using the keyword [keyword]. A search-intent-driven title, three pertinent H2 headings, a suggested word count, a 50-word meta description, primary and secondary keyword recommendations, important questions to address, internal link opportunities, and a clear content aim should all be included. When available, base recommendations on the information provided and the current search intent. Steer clear of out-of-date presumptions, unsupported SEO claims, and keyword stuffing. Before publishing, mark any SEO content that has to be verified.
 ## Automation Potential
 Medium-high — speeds briefing; writers still draft content.
 
