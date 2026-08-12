@@ -7,7 +7,9 @@ Reputation & Risk
 Slow or inconsistent responses can escalate reputational damage.
 
 ## Prompt
-> Draft 2 response options (professional, empathetic, ≤80 words) to this review [paste], for [client]. No liability admissions. Check both against [client]'s tone guide and revise any that don't fit.
+Serve as [client's] copywriter for reputation management. Write two draft responses to the review below, each no more than 80 words. Maintain composure, professionalism, empathy, and adherence to [client]'s authorized tone guide. Respond to the customer's problem without acknowledging legal responsibility, making unfounded allegations, assigning blame, or disclosing private information. Transfer the discussion to a private channel as necessary. Once both responses have been drafted, compare them to the tone guide, the factual information supplied, and the risk requirements. Then, make any necessary revisions. Mark any concern that needs to be reviewed by a lawyer or senior.
+Examine: [paste]
+Guide to tone: [paste]
 
 ## Automation Potential
 Low-medium — drafts only; always needs senior approval.
