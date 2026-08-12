@@ -12,8 +12,11 @@ Take on the role of an SEO content strategist. Write a succinct blog post aimed 
 Medium-high — speeds briefing; writers still draft content.
 
 ## Risks & Limitations
-- SEO data can date fast.
-- Check against current search intent.
+Search intent and SEO data can change quickly.
+Keyword recommendations should be checked against current search results and SEO tools.
+AI may suggest generic or outdated optimisation tactics.
+Final brief should be reviewed by an SEO strategist.
+
 
 ## Version History
 - v1.0 — Tested prompt.
